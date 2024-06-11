@@ -1,7 +1,9 @@
 {
   "name": "Horizon",
-  "version": "0.0.2",
-  "authors": ["ayn2op <ayn2op@gmail.com>"],
+  "version": "0.1.0",
+  "authors": [
+    "ayn2op <ayn2op@gmail.com>"
+  ],
   "description": "Horizon theme for Zed",
   "repository": "https://github.com/ayn2op/zed-horizon"
 }
